@@ -11,6 +11,7 @@ This project implements a chatbot using AWS Lex and Lambda. The chatbot is desig
 * Slot Elicitation: That Chatbot prompts users to provide specific information such as Location, Check-in-date, room type and number of nights
 * Integration with Lambda: AWS Lambda functions are used for the fulfillment activities of the chatbot, handling booking logic and data processing.
 * CloudWatch Monitoring: CloudWatch provides real-time monitoring of Lambda functions, ensuring efficient and smooth operation
-* Integration wuth EC2: The chatbot utilizes an EC2 instance to host backend services that support the chatbot functionality and it can be configured for auto scaling to handle fluctuating workload, thereby providing scalability 
+* Integration wuth EC2: The chatbot utilizes an EC2 instance to host backend services that support the chatbot functionality and it can be configured for auto scaling to handle fluctuating workload, thereby providing scalability.
+* Cost Optimization: The Chatbot project leverages AWS services in a cost effective manner, utilizing serverless computing and scalable database storage.
 
 ![chatbot](https://github.com/Excelwayne/Aws-Capstone-Project/assets/94924696/fee67499-b957-4d22-b314-b1cd0f64cce8)
